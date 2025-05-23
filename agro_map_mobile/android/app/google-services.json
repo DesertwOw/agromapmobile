@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842570283395",
+    "project_id": "agromapmobile-27431",
+    "storage_bucket": "agromapmobile-27431.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842570283395:android:4855848ba63d95d9ffdeb6",
+        "android_client_info": {
+          "package_name": "hu.radosdev.agromapmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOs-tu2-Qfg3JM8aEtPofCTD2rWWluXKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
